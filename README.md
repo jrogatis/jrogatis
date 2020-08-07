@@ -1,4 +1,4 @@
-# Hi there, I'm JP - aka [website] 👋
+# Hi there, I'm Jean Philip - aka [JP][website] 👋
 
 ## I'm a Husband, Father, Developer and SkyDiver!
 
