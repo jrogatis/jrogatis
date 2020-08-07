@@ -43,7 +43,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-[Just another jump. It's almost the same as start a new project...  ][https://www.youtube.com/watch?v=b6OFZ718V9k]
+[Just another jump. It's almost the same as start a new project...  ](https://www.youtube.com/watch?v=b6OFZ718V9k)
 <!-- YOUTUBE:END -->
 
 ---
