@@ -56,8 +56,8 @@
 
 <img align="left" alt="jrogatis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jrogatis&show_icons=true&hide_border=true" />
 
-[website]: https://www.rogatis.eti.br
-[twitter]: https://twitter.com/jrogatis
+[website]: https://www.rogatis.eti.br/
+[twitter]: https://twitter.com/jrogatis/
 [youtube]: https://www.youtube.com/channel/UCP6zU2084xMlLJcD1d2av_w/
-[instagram]: https://instagram.com/jrogatis
-[linkedin]: https://linkedin.com/in/jrogatis
+[instagram]: https://instagram.com/jrogatis/
+[linkedin]: https://linkedin.com/in/jrogatis/
