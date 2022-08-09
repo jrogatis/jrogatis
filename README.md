@@ -1,6 +1,6 @@
 # Hi there, I'm Jean Philip - aka [JP][website] 👋
 
-## I'm a Husband, Father, Developer and SkyDiver!
+## I'm a Father, Developer and SkyDiver!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
